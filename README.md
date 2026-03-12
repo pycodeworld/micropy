@@ -1,7 +1,8 @@
 # micropy
 
 #### 项目描述
-基于micropython的智能硬件库，接口参考文档：https://www.pycodeworld.com/pysmart/doc/pysmart.html。
+基于micropython的智能硬件库。\
+接口参考文档：https://www.pycodeworld.com/pysmart/doc/pysmart.html。
 
 
 ### 目录结构
